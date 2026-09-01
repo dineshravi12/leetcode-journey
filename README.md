@@ -3,8 +3,8 @@
 Welcome to my repository tracking my progress through LeetCode problems. This space serves as a record of my learning, optimization strategies, and growth in Data Structures and Algorithms (DSA).
 
 ## 🛠️ Tech Stack
-* **Primary Language:** Python / Java / C++ (Change this to your language)
-* **Automation:** Automatically synced using LeetSync / GitHub Actions
+* **Primary Language:** Java
+* **Automation:** Automatically synced using LeetSync
 
 ## 📈 Goals
 - [ ] Complete 100+ problems
