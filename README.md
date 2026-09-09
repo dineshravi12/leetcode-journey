@@ -13,3 +13,11 @@ Welcome to my repository tracking my progress through LeetCode problems. This sp
 
 ## 📁 Repository Structure
 The solutions are structured automatically by the syncing tool, categorizing problems by their difficulty (Easy, Medium, Hard) or problem name.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/dineshravi12/leetcode-journey/tree/master/3871-count-commas-in-range-ii) |
+<!---LeetCode Topics End-->
