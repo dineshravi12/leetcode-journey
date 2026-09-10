@@ -20,4 +20,16 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 |  |
 | ------- |
 | [3871-count-commas-in-range-ii](https://github.com/dineshravi12/leetcode-journey/tree/master/3871-count-commas-in-range-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dineshravi12/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dineshravi12/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dineshravi12/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
