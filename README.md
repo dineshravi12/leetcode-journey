@@ -35,6 +35,7 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/dineshravi12/leetcode-journey/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dineshravi12/leetcode-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dineshravi12/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -61,4 +62,8 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dineshravi12/leetcode-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/dineshravi12/leetcode-journey/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
