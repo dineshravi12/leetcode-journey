@@ -45,6 +45,7 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dineshravi12/leetcode-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dineshravi12/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dineshravi12/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dineshravi12/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dineshravi12/leetcode-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -85,10 +87,12 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 ## String
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dineshravi12/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dineshravi12/leetcode-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dineshravi12/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dineshravi12/leetcode-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
