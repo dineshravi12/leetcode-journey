@@ -23,6 +23,7 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dineshravi12/leetcode-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/dineshravi12/leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/dineshravi12/leetcode-journey/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dineshravi12/leetcode-journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/dineshravi12/leetcode-journey/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -46,6 +47,7 @@ The solutions are structured automatically by the syncing tool, categorizing pro
 | [3483-unique-3-digit-even-numbers](https://github.com/dineshravi12/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/dineshravi12/leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/dineshravi12/leetcode-journey/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dineshravi12/leetcode-journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
